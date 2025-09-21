@@ -6,6 +6,6 @@ int main()
     printf("welcome, enter 2 num\n");
     int a, b = 0;
     scanf("%d%d", &a, &b);
-    printf("sum is %d", a + b);
+    printf("diff is %d", a - b);
     return 0;
 }
